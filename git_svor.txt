@@ -29,3 +29,5 @@ repository er þar sem þú geymir allar úgáfunar
 eiginlega alltaf, engin ástæða til að vera að breyta master alltaf, betra að gera breytingar fyrst annar staðar og síðan commita
 9.spurning
 Linus Torvald
+10.spurning
+Allstaðar sem þarf að vinna við kóða eða rafræn skjöl
