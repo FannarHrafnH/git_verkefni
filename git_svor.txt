@@ -11,3 +11,7 @@ git log sýnir allar skráningar
 git status sýnir vegi sem hafa mun á milli index og HEAD skráningu
 git diff sýnir munin á milli greinar og einhvers annars
 git checkout sækir ákveðna grein
+3.spurning
+a)sýnir breytingar sem þú hefur gert en ert ennþá ekki búinn að commita
+b)munur mill index og síðasta commitinu þínu, það sem þú mundur commita ef þú notar git commit án -a
+c)sjá muninn milli tveggja commits
