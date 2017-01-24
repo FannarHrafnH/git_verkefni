@@ -15,3 +15,5 @@ git checkout sækir ákveðna grein
 a)sýnir breytingar sem þú hefur gert en ert ennþá ekki búinn að commita
 b)munur mill index og síðasta commitinu þínu, það sem þú mundur commita ef þú notar git commit án -a
 c)sjá muninn milli tveggja commits
+4.spurning
+kerfi eins og git til að skrá útgáfur og vinna á sama kóða á sama tíma og aðrir
