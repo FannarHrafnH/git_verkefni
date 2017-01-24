@@ -1,1 +1,7 @@
 "#Git spurningar og svör"
+1.spurning
+cd er hvernig við færum okkur um skelina
+cd ~ færir okkur á root
+ls segir okkar hvað er að gerast í kringum okkur
+pwd segir okkur hvar við erum og hvaða PATH það er
+mkdir býr til möppu
