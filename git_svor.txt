@@ -5,3 +5,9 @@ cd ~ færir okkur á root
 ls segir okkar hvað er að gerast í kringum okkur
 pwd segir okkur hvar við erum og hvaða PATH það er
 mkdir býr til möppu
+2.spurning
+git clone leyfir manni að gera afrit af geymslu
+git log sýnir allar skráningar
+git status sýnir vegi sem hafa mun á milli index og HEAD skráningu
+git diff sýnir munin á milli greinar og einhvers annars
+git checkout sækir ákveðna grein
