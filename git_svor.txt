@@ -27,3 +27,5 @@ staging area er file sem innheldur allt sem mun bætast við næst þegar þú c
 repository er þar sem þú geymir allar úgáfunar
 8.spurning
 eiginlega alltaf, engin ástæða til að vera að breyta master alltaf, betra að gera breytingar fyrst annar staðar og síðan commita
+9.spurning
+Linus Torvald
