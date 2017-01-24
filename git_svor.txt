@@ -17,3 +17,5 @@ b)munur mill index og síðasta commitinu þínu, það sem þú mundur commita 
 c)sjá muninn milli tveggja commits
 4.spurning
 kerfi eins og git til að skrá útgáfur og vinna á sama kóða á sama tíma og aðrir
+5.spurning
+hafa skráningu af öllum breytingum og geta unnið á kóða hjá sjálfum sér án þess að það hafi áhrif á aðra sem eru líka að vinna með sama kóða
